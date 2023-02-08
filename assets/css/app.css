@@ -33,7 +33,7 @@ footer a {
 }
 
 .wave {
-  background: linear-gradient(to left, #00c6ff,#68adf7, #5988ff);
+  background: linear-gradient(to left, #9ab6fb, #5988ff);
   min-height: 350px;
   color: #fff;
   display: flex;
@@ -269,6 +269,10 @@ footer a {
 #contact {
   text-align: center;
 }
+
+/* .container-dark {
+  background-color: #fb968d;
+} */
 
 .modal {
   position: fixed;
